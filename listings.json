@@ -1,15 +1,16 @@
 [
   {
+    "listing": "/docs/guide/comms/resources.html",
+    "items": []
+  },
+  {
     "listing": "/blog.html",
     "items": [
+      "/docs/posts/leadership/index.html",
       "/docs/posts/dei-report/index.html",
       "/docs/posts/cel-cm/index.html",
       "/docs/posts/cel-year-one/index.html",
       "/docs/posts/Hello-world/index.html"
     ]
-  },
-  {
-    "listing": "/docs/guide/comms/resources.html",
-    "items": []
   }
 ]
